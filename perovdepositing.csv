@@ -1,0 +1,226 @@
+Ref_publication_date,Ref_journal,Cell_stack_sequence,Cell_area_measured,ETL_deposition_procedure,Perovskite_deposition_procedure,HTL_deposition_procedure
+17/06/2019,Solar RRL,SLG | FTO | SnO2-c | Perovskite | Spiro-MeOTAD | Au,4,CBD,Spin-coating,Spin-coating
+17/09/2019,Energy Technology,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Carbon,5.2,Spray-pyrolys | Spin-coating,Spin-coating,Unknown
+09/08/2019,Nano Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1.35,CBD,Spin-coating,Spin-coating
+09/08/2019,Nano Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1.35,CBD,Spin-coating,Spin-coating
+09/08/2019,Nano Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1.26,CBD,Spin-coating,Spin-coating
+09/08/2019,Nano Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1.26,CBD,Spin-coating,Spin-coating
+13/12/2018,Advanced Functional Materials,SLG | ITO | SnO2-c | Perovskite | Spiro-MeOTAD | Au,3.8,Sputtering,Spin-coating,Spin-coating
+13/12/2018,Advanced Functional Materials,SLG | ITO | SnO2-c | Perovskite | Spiro-MeOTAD | Au,3.8,Sputtering,Spin-coating,Spin-coating
+28/11/2017,Journal of Materials Chemistry A,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,2.5,Spray-pyrolys | Spin-coating,Spin-coating >> CBD,Spin-coating
+28/11/2017,Journal of Materials Chemistry A,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | P3HT | Au,2.5,Spray-pyrolys | Spin-coating,Spin-coating >> CBD,Spin-coating
+01/09/2018,Nano Energy,SLG | FTO | TiO2-c | SnO2-np | Perovskite | Spiro-MeOTAD | Au,3.2,Spray-pyrolys | Spin-coating,Spin-coating,Spin-coating
+03/05/2019,Energy & Environmental Science,PET | Al2O3 | Ti | C60 | Perovskite | NiO-c | Ni | Al2O3 | PET,9.6,Evaporation | Evaporation,Spin-coating,Evaporation | Evaporation
+03/05/2019,Energy & Environmental Science,PET | Al2O3 | Ti | C60 | Perovskite | NiO-c | Ni | Al2O3 | PET,7.75,Evaporation | Evaporation,Spin-coating,Evaporation | Evaporation
+03/05/2019,Energy & Environmental Science,PET | Al2O3 | Ti | C60 | Perovskite | NiO-c | Ni | Al2O3 | PET,4,Evaporation | Evaporation,Spin-coating,Evaporation | Evaporation
+03/05/2019,Energy & Environmental Science,PET | Al2O3 | Ti | C60 | Perovskite | NiO-c | Ni | Al2O3 | PET,6,Evaporation | Evaporation,Spin-coating,Evaporation | Evaporation
+19/08/2017,Solar Energy Materials and Solar Cells,SLG | ITO | PEDOT:PSS | Perovskite | PCBM-60 | Ag,2.25,Spin-coating,Spin-coating,Spin-coating
+01/06/2017,Nature Communications,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,5.95,Spray-pyrolys | Screen printing | Screen printing,Drop-infiltration,Unknown
+01/06/2017,Nature Communications,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,5.95,Spray-pyrolys | Screen printing | Screen printing,Drop-infiltration,Unknown
+01/06/2017,Nature Communications,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,5.95,Spray-pyrolys | Screen printing | Screen printing,Drop-infiltration,Unknown
+20/07/2018,Japanese Journal of Applied Physics,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,9.4,Sputtering | Spin-coating,Spin-coating,Spin-coating
+20/07/2018,Japanese Journal of Applied Physics,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,9.4,Sputtering | Spin-coating,Spin-coating,Spin-coating
+03/07/2019,Joule,PET | PEDOT:PSS | Perovskite | PCBM-60 | Ag,3.2,Spin-coating,Spin-coating,Spin-coating
+18/09/2018,Nature Communications,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,2,Unknown,Spin-coating >> Gas reaction,Spin-coating
+18/09/2018,Nature Communications,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,2,Unknown,Spin-coating >> Gas reaction,Spin-coating
+16/12/2019,Journal of Materials Chemistry A,SLG | FTO | TiO2-c | Al2O3-nt | Perovskite | Spiro-MeOTAD | MoOx | ITO,4.3,Spin-coating | Evaporation >> Anodisation >> Oxidation >> Etching,Spin-coating,Spin-coating
+23/11/2018,Solar RRL,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,1.55,Spray-pyrolys | Screen printing | Screen printing,Drop-infiltration,Unknown
+23/11/2018,Solar RRL,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,1.55,Spray-pyrolys | Screen printing | Screen printing,Drop-infiltration,Unknown
+07/08/2017,IEEE Journal of Photovoltaics,SLG | ITO | TiO2-np | Perovskite | Spiro-MeOTAD | Au,0.1,Spray-pyrolys | Spin-coating,Spin-coating,Doctor blading
+07/08/2017,IEEE Journal of Photovoltaics,SLG | ITO | TiO2-np | Perovskite | Spiro-MeOTAD | Au,0.1,Spray-pyrolys | Spin-coating,Spin-coating,Doctor blading
+07/08/2017,IEEE Journal of Photovoltaics,SLG | ITO | TiO2-np | Perovskite | Spiro-MeOTAD | Au,0.1,Spray-pyrolys | Spin-coating,Spin-coating,Doctor blading
+07/08/2017,IEEE Journal of Photovoltaics,SLG | ITO | TiO2-np | Perovskite | Spiro-MeOTAD | Au,0.1,Spray-pyrolys | Spin-coating,Spin-coating,Doctor blading
+18/10/2019,Journal of Physics D: Applied Physics,PET | ITO | SnO2-np | Perovskite | Spiro-MeOTAD | Ag,15.84,Spin-coating,Spin-coating,Spin-coating
+18/10/2019,Journal of Physics D: Applied Physics,PET | ITO | SnO2-np | Perovskite | Spiro-MeOTAD | Ag,15.84,Spin-coating,Spin-coating,Spin-coating
+21/11/2019,Advanced Energy Materials,MgF2 | Willow glass | ITO | PTAA | Perovskite | C60 | BCP | Cu,3.3,Evaporation | Evaporation,Doctor blading,Doctor blading
+21/11/2019,Advanced Energy Materials,Willow glass | ITO | PTAA | Perovskite | C60 | BCP | Cu,3.3,Evaporation | Evaporation,Doctor blading,Doctor blading
+03/09/2019,Joule,SLG | FTO | NiO-c | Perovskite | PCBM-60; Graphene | BCP | Ag,36.1,Spin-coating | Evaporation,Slot-die coating,Spray-pyrolys
+03/09/2019,Joule,SLG | FTO | NiO-c | Perovskite | PCBM-60; Graphene | BCP | Ag,36.1,Spin-coating | Evaporation,Slot-die coating,Spray-pyrolys
+03/09/2019,Joule,SLG | FTO | NiO-c | Perovskite | Graphitic carbon nitride | PCBM-60; Graphene | BCP | Ag,36.1,Spin-coating | Spin-coating | Evaporation,Slot-die coating,Spray-pyrolys
+03/09/2019,Joule,SLG | FTO | NiO-c | Perovskite | Graphitic carbon nitride | PCBM-60; Graphene | BCP | Ag,36.1,Spin-coating | Spin-coating | Evaporation,Slot-die coating,Spray-pyrolys
+03/09/2019,Joule,SLG | FTO | NiO-c | Perovskite | Graphitic carbon nitride | PCBM-60; Graphene | BCP | Ag,35.8,Spin-coating | Spin-coating | Evaporation,Slot-die coating,Spray-pyrolys
+15/03/2019,Solar Energy Materials and Solar Cells,SLG | ITO | NiO-c | Al2O3-mp | Perovskite | PCBM-60 | Rhodamine 101 | Au | Al,2.125,Spin-coating | Spin-coating,Spin-coating >> Spin-coating,Spin-coating | Spin-coating
+25/06/2019,ACS Applied Materials & Interfaces,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,2.72,Spray-pyrolys | Doctor blading,Doctor blading >> CBD,Doctor blading
+25/06/2019,ACS Applied Materials & Interfaces,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,2.72,Spray-pyrolys | Doctor blading,Doctor blading >> CBD,Doctor blading
+25/06/2019,ACS Applied Materials & Interfaces,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,2.72,Spray-pyrolys | Doctor blading,Doctor blading >> CBD,Doctor blading
+25/06/2019,ACS Applied Materials & Interfaces,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,2.72,Spray-pyrolys | Doctor blading,Doctor blading >> CBD,Doctor blading
+25/06/2019,ACS Applied Materials & Interfaces,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,4.978,Spray-pyrolys | Doctor blading,Doctor blading >> CBD,Doctor blading
+25/06/2019,ACS Applied Materials & Interfaces,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,3.8,Spray-pyrolys | Doctor blading,Doctor blading >> CBD,Doctor blading
+25/06/2019,ACS Applied Materials & Interfaces,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,3.8,Spray-pyrolys | Doctor blading,Doctor blading >> CBD,Doctor blading
+01/10/2018,Journal of Materials Chemistry A,SLG | FTO | SnO2-c | Perovskite | Spiro-MeOTAD | Au,4.58,CBD,Evaporation >> Evaporation >> Gas reaction,Spin-coating
+04/09/2018,Nanoscale,"SLG | FTO | TiO2-c | TiO2-mp | Perovskite | cyclopenta[2,1-b; 3,4-b?]dithiophene | MoOx | Ag",2.34,Spray-pyrolys | Screen printing,Spin-coating,Spin-coating
+04/09/2018,Nanoscale,"SLG | FTO | TiO2-c | TiO2-mp | Perovskite | cyclopenta[2,1-b; 3,4-b?]dithiophene | MoOx | SLG | ITO",2.34,Spray-pyrolys | Screen printing,Spin-coating,Spin-coating
+04/09/2018,Nanoscale,"SLG | FTO | TiO2-c | TiO2-mp | Perovskite | cyclopenta[2,1-b; 3,4-b?]dithiophene | MoOx | SLG | ITO",2.34,Spray-pyrolys | Screen printing,Spin-coating,Spin-coating
+17/07/2018,ChemSusChem,SLG | FTO | SnO2-np | Perovskite | Spiro-MeOTAD | Au,2.678333333,Doctor blading,Spin-coating,Spin-coating
+25/08/2017,"Organic, Hybrid, and Perovskite Photovoltaics XVIII",SLG | ITO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,9.25,E-beam evaporation,Slot-die coating,Spin-coating
+27/12/2018,ACS Omega,SLG | FTO | NiO-c | Perovskite | PCBM-60 | BCP | Ag,0.25,Spin-coating | Spin-coating,Spin-coating,Electrodeposition
+25/02/2019,ACS Energy Letters,SLG | FTO | SnO2-np | Perovskite | Spiro-MeOTAD | Au,6.25,Spin-coating,Spin-coating,Spin-coating
+29/04/2019,Angewandte Chemie International Edition,SLG | ITO | SnO2-np | Perovskite | PTAA | Au,2.75,Spin-coating,Spin-coating,Spin-coating
+09/08/2019,Thin Solid Films,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Ag,0.1,Spin-coating | Spin-coating,Spin-coating >> Spin-coating,Spin-coating
+09/08/2019,Thin Solid Films,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Ag,0.1,Spin-coating | Spin-coating,Spin-coating >> Spin-coating,Spin-coating
+09/08/2019,Thin Solid Films,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Ag,0.1,Spin-coating | Spin-coating,Spin-coating >> Spin-coating,Spin-coating
+08/10/2019,Small,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | P3HT | Au,3,Spray-pyrolys | Spin-coating,Spin-coating,Spin-coating
+29/10/2018,Nature Communications,PET | ITO | SnO2-np | Perovskite | Spiro-MeOTAD | Au,2.67,Slot-die coating,Spin-coating,Spin-coating
+29/10/2018,Nature Communications,PET | ITO | SnO2-np | Perovskite | Spiro-MeOTAD | Au,2.67,Slot-die coating,Spin-coating,Spin-coating
+24/06/2017,Nano Energy,SLG | ITO | NiO-c | Perovskite | PCBM-60 | BCP | Ag,2.7,Spin-coating | Spin-coating,Spin-coating,Spin-coating
+06/02/2018,RSC Advances,SLG | ITO | PTAA | Perovskite | PCBM-60 | ZnO-np | Al,0.06,Spin-coating | Spin-coating,Spin-coating >> Spin-coating,Spin-coating
+06/02/2018,RSC Advances,SLG | ITO | PTAA | Perovsktie | ZnO-np | Al,0.06,Spin-coating,Spin-coating >> Spin-coating,Spin-coating
+06/02/2018,RSC Advances,SLG | ITO | PTAA | Perovskite | PCBM-60 | Al,0.06,Spin-coating,Spin-coating >> Spin-coating,Spin-coating
+08/11/2018,Solar Energy Materials and Solar Cells,SLG | ITO | NiO-c | Al2O3-mp | Perovskite | PCBM-60 | Rhodamine 101 | Ag | Au,2.1,Spin-coating | Spin-coating,Spin-coating >> Spin-coating,Spin-coating | Spin-coating
+08/11/2018,Solar Energy Materials and Solar Cells,SLG | ITO | NiO-c | Al2O3-mp | Perovskite | PCBM-60 | Rhodamine 101 | Ag | Au,6.25,Spin-coating | Spin-coating,Spin-coating >> Spin-coating,Spin-coating | Spin-coating
+15/09/2017,Nano Energy,SLG | ITO | PEDOT:PSS | Perovskite | PCBM-60 | Ca | Al,0.1,Spin-coating,Evaporation >> CBD,Spin-coating
+21/03/2019,Nano Energy,PET | ITO | NiO-c | Perovskite | PCBM-60 | BCP | Ag,0.07,Spin-coating | Spin-coating,Spin-coating >> Spin-coating,Unknown
+18/06/2018,Journal of Materials Chemistry A,PET | ITO | PEDOT:PSS | Perovskite | C60 | BCP | Ca | Al,2.8,Evaporation | Evaporation,Spin-coating,Spin-coating
+18/06/2018,Journal of Materials Chemistry A,PET | ITO | PEDOT:PSS | Perovskite | C60 | BCP | Ca | Al,2.8,Evaporation | Evaporation,Spin-coating,Spin-coating
+18/06/2018,Journal of Materials Chemistry A,PET | ITO | PEDOT:PSS | Perovskite | C60 | BCP | Ca | Al,2.8,Evaporation | Evaporation,Spin-coating,Spin-coating
+06/12/2017,Nano Energy,SLG | FTO | TiO2-c | SnO2-np | Perovskite | Spiro-MeOTAD | Au,1.666666667,Spray-pyrolys | Spin-coating,Spin-coating,Spin-coating
+25/04/2018,Nano Energy,Foil | AZO | LiF | C60 | Perovskite | Spiro-MeOTAD | Au,1.275,Evaporation | Evaporation,Evaporation >> Spin-coating,Spin-coating
+11/03/2019,Nano Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1.9,CBD,Spin-coating,Spin-coating
+11/03/2019,Nano Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1.9,CBD,Spin-coating,Spin-coating
+30/04/2018,Nano-Micro Letters,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2.5,Hydrolysis,Spin-coating,Spin-coating
+08/05/2018,ACS Applied Materials & Interfaces,SLG | Ag | MoOx | PEDOT:PSS | Perovskite | PCBM-60 | C60 | BCP | Cu | Ag | MoO3,0.1,Spin-coating | Evaporation | Evaporation,Spin-coating >> Spin-coating,Evaporation | Spin-coating
+08/05/2018,ACS Applied Materials & Interfaces,SLG | Ag | MoOx | PEDOT:PSS | Perovskite | PCBM-60 | C60 | BCP | Cu | Ag | MoO3,0.1,Spin-coating | Evaporation | Evaporation,Spin-coating >> Spin-coating,Evaporation | Spin-coating
+08/05/2018,ACS Applied Materials & Interfaces,SLG | Ag | MoOx | PEDOT:PSS | Perovskite | PCBM-60 | C60 | BCP | Cu | Ag | MoO3,0.1,Spin-coating | Evaporation | Evaporation,Spin-coating >> Spin-coating,Evaporation | Spin-coating
+08/05/2018,ACS Applied Materials & Interfaces,SLG | Ag | MoOx | PEDOT:PSS | Perovskite | PCBM-60 | C60 | BCP | Cu | Ag | MoO3,0.1,Spin-coating | Evaporation | Evaporation,Spin-coating >> Spin-coating,Evaporation | Spin-coating
+08/05/2018,ACS Applied Materials & Interfaces,PET | Ag | MoOx | PEDOT:PSS | Perovskite | PCBM-60 | C60 | BCP | Cu | Ag | MoO3,0.1,Spin-coating | Evaporation | Evaporation,Spin-coating >> Spin-coating,Evaporation | Spin-coating
+08/05/2018,ACS Applied Materials & Interfaces,SLG | Ag | MoOx | PEDOT:PSS | Perovskite | PCBM-60 | C60 | BCP | ITO,0.1,Spin-coating | Evaporation | Evaporation,Spin-coating >> Spin-coating,Evaporation | Spin-coating
+18/04/2018,ACS Applied Materials & Interfaces,SLG | ITO | PEDOT:PSS | Perovskite | C60 | PCBM-60 | BCP | Ag,2.5,Spin-coating | Spin-coating | Evaporation,Slot-die coating,Spin-coating
+20/11/2017,Solar Energy Materials and Solar Cells,SLG | ITO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,6.075,E-beam evaporation,Slot-die coating,Slot-die coating
+20/11/2017,Solar Energy Materials and Solar Cells,SLG | ITO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,6.175,E-beam evaporation,Slot-die coating,Slot-die coating
+10/05/2018,Nature Energy,SLG | ITO | PTAA | Perovskite | C60 | BCP | Cu,1.95,Evaporation | Evaporation,Doctor blading,Doctor blading
+10/05/2018,Nature Energy,SLG | ITO | PTAA | Perovskite | C60 | BCP | Cu,3.575,Evaporation | Evaporation,Doctor blading,Doctor blading
+10/05/2018,Nature Energy,SLG | ITO | PTAA | Perovskite | C60 | BCP | Cu,3.575,Evaporation | Evaporation,Doctor blading,Doctor blading
+22/11/2017,Advanced Functional Materials,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2,Sputtering,Spin-coating >> Gas reaction >> Ion exchange,Spin-coating
+22/11/2017,Advanced Functional Materials,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2,Sputtering,Spin-coating,Spin-coating
+11/09/2018,ACS Energy Letters,SLG | ITO | SnO2-np | Perovskite | EH44 | MoOx | Al,1.8125,Spin-coating,Spin-coating,Spin-coating
+04/02/2019,Advanced Energy Materials,SLG | ITO | NiO-c | Perovskite | C60 | BCP | Au,0.105,Evaporation | Evaporation,Co-evaporation,E-beam evaporation
+22/03/2018,Journal of Materials Chemistry A,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | MoO3 | Au,0.28,Spin-coating,Spin-coating >> Spin-coating,Spin-coating
+26/10/2017,Energy & Environmental Science,SLG | FTO | SnO2-c | Perovskite | Spiro-MeOTAD | Au,3.3,CBD,Spin-coating,Spin-coating
+27/03/2019,Nature,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | P3HT | Au,3,Spray-pyrolys | Spin-coating,Spin-coating >> Spin-coating,Spin-coating
+27/03/2019,Nature,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | P3HT | Au,3,Spray-pyrolys | Spin-coating,Spin-coating >> Spin-coating,Doctor blading
+31/05/2018,Energy & Environmental Science,SLG | ITO | NiO-np | Perovskite | C60; PCBM-60 | Zr(acac)4 | Ag,0.1,Spin-coating | Spin-coating,Spin-coating,Spin-coating
+24/11/2017,Nano Research,PET | ITO | SnO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,2.4,Spin-coating | Spin-coating,Spin-coating,Spin-coating
+04/09/2017,Nature,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,3.6,Spray-pyrolys | Spin-coating,Dropcasting >> Pneumatic pressure,Spin-coating
+04/09/2017,Nature,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,3.6,Spray-pyrolys | Spin-coating,Dropcasting >> Pneumatic pressure,Spin-coating
+04/09/2017,Nature,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,3.6,Spray-pyrolys | Spin-coating,Dropcasting >> Pneumatic pressure,Spin-coating
+04/09/2017,Nature,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,3.6,Spray-pyrolys | Spin-coating,Dropcasting >> Pneumatic pressure,Spin-coating
+04/09/2017,Nature,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,3.6,Spray-pyrolys | Spin-coating,Dropcasting >> Pneumatic pressure,Spin-coating
+15/10/2018,Energy & Environmental Science,PDMS | PEDOT:PSS | Perovskite | PCBM-60 | PEI | PEDOT:PSS | PDMS,9.33,Spin-coating,Spin-coating,Spin-coating
+03/10/2018,ACS Nano,SLG | ITO | PEDOT:PSS | Perovskite | C60 | BCP | Ag,2.25,Evaporation | Evaporation,Spin-coating,Spin-coating
+11/07/2019,Journal of Materials Chemistry A,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | MoO3 | Ag,2,Spin-coating | Spin-coating,Spin-coating,Spin-coating
+14/02/2019,Advanced Energy Materials,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1,Sputtering,Ultrasonic spray >> Gas reaction,Spin-coating
+14/02/2019,Advanced Energy Materials,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1,Sputtering,Ultrasonic spray >> Gas reaction,Spin-coating
+14/02/2019,Advanced Energy Materials,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1,Sputtering,Ultrasonic spray >> Gas reaction,Spin-coating
+14/02/2019,Advanced Energy Materials,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1,Sputtering,Ultrasonic spray >> Gas reaction,Spin-coating
+14/02/2019,Advanced Energy Materials,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1,Sputtering,Ultrasonic spray >> Gas reaction,Spin-coating
+14/02/2019,Advanced Energy Materials,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1,Sputtering,Ultrasonic spray >> Gas reaction,Spin-coating
+14/02/2019,Advanced Energy Materials,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1,Sputtering,Ultrasonic spray >> CBD,Spin-coating
+14/02/2019,Advanced Energy Materials,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1,Sputtering,Ultrasonic spray >> CBD,Spin-coating
+14/02/2019,Advanced Energy Materials,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1,Sputtering,Ultrasonic spray >> CBD,Spin-coating
+14/02/2019,Advanced Energy Materials,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1,Sputtering,Ultrasonic spray >> CBD,Spin-coating
+14/02/2019,Advanced Energy Materials,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,1,Sputtering,Ultrasonic spray >> CBD,Spin-coating
+21/04/2017,Advanced Energy Materials,SLG | ITO | TiO2-c | Perovskite | Spiro-MeOTAD | ITO,4,E-beam evaporation,Spin-coating,Spin-coating
+13/03/2019,Solar Energy,SLG | FTO | SnO2-c | Perovskite | Spiro-MeOTAD | Au,16.07,Magnetron sputtering,Spin-coating,Spin-coating
+19/02/2019,Journal of Materials Chemistry A,SLG | FTO | SnO2-c | C60 | Perovskite | Spiro-MeOTAD | Au,5.909,Sputtering | Sputtering,Co-evaporation >> Gas reaction >> Spin-coating,Spin-coating
+19/02/2019,Journal of Materials Chemistry A,SLG | FTO | SnO2-c | C60 | Perovskite | Spiro-MeOTAD | Au,5.909,Sputtering | Sputtering,Co-evaporation >> Gas reaction >> Spin-coating,Spin-coating
+16/07/2018,ACS Applied Energy Materials,SLG | ITO | C60 | Perovskite | Spiro-MeOTAD | Au,2.265,Evaporation,Evaporation >> Spin-coating,Spin-coating
+16/07/2018,ACS Applied Energy Materials,SLG | ITO | C60 | Perovskite | Spiro-MeOTAD | Au,2.265,Evaporation,Evaporation >> Spin-coating,Spin-coating
+16/07/2018,ACS Applied Energy Materials,SLG | ITO | C60 | Perovskite | Spiro-MeOTAD | Au,3.5,Evaporation,Evaporation >> Spin-coating,Spin-coating
+16/07/2018,ACS Applied Energy Materials,SLG | ITO | C60 | Perovskite | Spiro-MeOTAD | Cu,2.265,Evaporation,Evaporation >> Spin-coating,Spin-coating
+08/03/2018,Chem,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,1.05,Spray-pyrolys | Screen printing | Screen printing,Spin-coating,Unknown
+08/03/2018,Chem,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,1.05,Spray-pyrolys | Screen printing | Screen printing,Spin-coating,Unknown
+08/03/2018,Chem,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,1.05,Spray-pyrolys | Screen printing | Screen printing,Spin-coating,Unknown
+07/12/2019,Science Advances,SLG | ITO | PTAA | Perovskite | C60 | BCP | Ag,0.1,Evaporation | Evaporation,Doctor blading,Doctor blading
+07/12/2019,Science Advances,SLG | ITO | PTAA | Perovskite | C60 | BCP | Ag,0.1,Evaporation | Evaporation,Doctor blading,Doctor blading
+03/11/2017,IEEE Journal of Photovoltaics,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,1.84,RF sputtering | Spin-coating,Spin-coating,Spin-coating
+03/11/2017,IEEE Journal of Photovoltaics,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,1.84,RF sputtering | Spin-coating,Spin-coating,Spin-coating
+15/03/2019,Solar Energy,SLG | FTO | SnO2-c | Perovskite | Spiro-MeOTAD | Au,8.3,CBD,Spin-coating,Spin-coating
+13/08/2018,Advanced Materials Technologies,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,8.7,Spray-pyrolys | Screen printing | Screen printing,Drop-infiltration,Unknown
+13/08/2018,Advanced Materials Technologies,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,8.7,Spray-pyrolys | Screen printing | Screen printing,Drop-infiltration,Unknown
+13/08/2018,Advanced Materials Technologies,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,8.7,Spray-pyrolys | Screen printing | Screen printing,Drop-infiltration,Unknown
+13/08/2018,Advanced Materials Technologies,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,8.7,Spray-pyrolys | Screen printing | Screen printing,Drop-infiltration,Unknown
+13/08/2018,Advanced Materials Technologies,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,8.7,Spray-pyrolys | Screen printing | Screen printing,Drop-infiltration,Unknown
+13/08/2018,Advanced Materials Technologies,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,8.7,Spray-pyrolys | Screen printing | Screen printing,Drop-infiltration,Unknown
+13/08/2018,Advanced Materials Technologies,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,8.7,Spray-pyrolys | Screen printing | Screen printing,Drop-infiltration,Unknown
+13/08/2018,Advanced Materials Technologies,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,8.7,Spray-pyrolys | Screen printing | Screen printing,Drop-infiltration,Unknown
+12/09/2018,Advanced Materials,SLG | FTO | SnO2-c | SnO2-np | Perovskite | Spiro-MeOTAD | Au,0.9,Spin-coating | Spin-coating,Spin-coating,Spin-coating
+05/01/2018,Scientific Reports,PEN | ITO | C60 | Perovskite | Spiro-MeOTAD | MoO3 | Au,3.2,Evaporation,Evaporation >> Spin-coating,Spin-coating
+05/01/2018,Scientific Reports,PEN | ITO | C60 | Perovskite | Spiro-MeOTAD | MoO3 | Au,3.2,Evaporation,Evaporation >> Spin-coating,Spin-coating
+18/07/2017,Advanced Energy Materials,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,2.856,Spray-pyrolys | Spin-coating,Spin-coating,Spin-coating
+27/06/2019,ACS Energy Letters,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,4.9,Spray-pyrolys | Spin-coating,Spin-coating,Spin-coating
+27/06/2019,ACS Energy Letters,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,4.9,Spray-pyrolys | Spin-coating,Spin-coating,Spin-coating
+27/06/2019,ACS Energy Letters,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,4.9,Spray-pyrolys | Spin-coating,Spin-coating,Spin-coating
+27/06/2019,ACS Energy Letters,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | MoS2 | Spiro-MeOTAD | Au,4.9,Spray-pyrolys | Spin-coating,Spin-coating,Spray-coating | Spin-coating
+19/06/2019,ACS Energy Letters,SLG | FTO | SnO2-np | Perovskite | Spiro-MeOTAD | Au,5,Spin-coating,Spin-coating,Spin-coating
+04/07/2019,Advanced Functional Materials,SLG | ITO | NiO-np | Perovskite | EVA | PCBM-60 | BCP | Ag,2.5,Spin-coating | Spin-coating | Spin-coating,Spin-coating,Spin-coating
+04/07/2019,Advanced Functional Materials,PET | ITO | PEDOT:PSS | Perovskite | EVA | PCBM-60 | BCP | Ag,2.5,Spin-coating | Spin-coating | Spin-coating,Spin-coating,Spin-coating
+11/02/2019,Advanced Functional Materials,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,0.1,Spray-pyrolys | Screen printing | Screen printing,Drop-infiltration,Unknown
+02/01/2018,ACS Energy Letters,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2.5,Spray-pyrolys,Doctor blading,Doctor blading
+02/01/2018,ACS Energy Letters,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2.5,Spray-pyrolys,Doctor blading,Doctor blading
+02/01/2018,ACS Energy Letters,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2.5,Spray-pyrolys,Doctor blading,Doctor blading
+17/10/2018,Electronic Materials Letters,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,0.1,Spin-coating,Co-evaporation,Spin-coating
+07/11/2018,Journal of Materials Chemistry A,SLG | FTO | ZnO | Perovskite | Spiro-MeOTAD | Au,0.1,Spin-coating,Spin-coating >> Spin-coating,Spin-coating
+07/11/2018,Journal of Materials Chemistry A,SLG | FTO | ZnO | Au-nw | Perovskite | Spiro-MeOTAD | Au,0.1,Spin-coating | Spin-coating,Spin-coating >> Spin-coating,Spin-coating
+29/01/2020,Energy Technology,SLG | FTO | SnO2-np | Perovskite | Spiro-MeOTAD | Au,1.84,Spray-coating,Spin-coating,Spin-coating
+29/01/2020,Energy Technology,SLG | FTO | SnO2-np | Perovskite | Spiro-MeOTAD | Au,1.84,Spin-coating,Spin-coating,Spin-coating
+31/01/2020,Advanced Energy Materials,SLG | ITO | NiO-np | PMMA | Perovskite | PCBM-60 | BCP | Ag,3.6,Spin-coating | Spin-coating,Spin-coating,Spin-coating | Spin-coating
+17/06/2019,Nature Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2,Magnetron sputtering,Spin-coating >> Gas reaction >> Ion exchange,Spin-coating
+17/06/2019,Nature Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2,Magnetron sputtering,Spin-coating >> Gas reaction >> Ion exchange,Spin-coating
+17/06/2019,Nature Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2,Magnetron sputtering,Spin-coating >> Gas reaction >> Ion exchange,Spin-coating
+17/06/2019,Nature Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2,Magnetron sputtering,Spin-coating >> Gas reaction >> Ion exchange,Spin-coating
+17/06/2019,Nature Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2,Magnetron sputtering,Spin-coating >> Gas reaction >> Ion exchange,Spin-coating
+17/06/2019,Nature Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2,Magnetron sputtering,Spin-coating >> Gas reaction >> Ion exchange,Spin-coating
+17/06/2019,Nature Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2,Magnetron sputtering,Spin-coating >> Gas reaction >> Ion exchange,Spin-coating
+17/06/2019,Nature Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2,Magnetron sputtering,Spin-coating >> Gas reaction >> Ion exchange,Spin-coating
+17/06/2019,Nature Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2,Magnetron sputtering,Spin-coating >> Gas reaction >> Ion exchange,Spin-coating
+17/06/2019,Nature Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2,Magnetron sputtering,Spin-coating >> Gas reaction >> Ion exchange,Spin-coating
+17/06/2019,Nature Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2,Magnetron sputtering,Spin-coating >> Gas reaction >> Ion exchange,Spin-coating
+17/06/2019,Nature Energy,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,2,Magnetron sputtering,Spin-coating >> Gas reaction >> Ion exchange,Spin-coating
+12/12/2018,ACS Energy Letters,SLG | ITO | SnO2-np | Perovskite | AL2O3-c | Spiro-MeOTAD | MoOx | ITO | MgF2,0.13,Spin-coating,Spin-coating,ALD | Spin-coating
+20/01/2020,Advanced Science,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,6.75,CBD,Spin-coating,Spin-coating
+18/12/2019,Advanced Functional Materials,SLG | ITO | Perovskite | Polyimid | PCBM-60 | BCP | Ag,36,Spin-coating | Spin-coating | Spin-coating,Spin-coating,Unknown
+18/12/2019,Advanced Functional Materials,SLG | ITO | CA-Br; TPA-PT-C6 | Perovskite | Polyimid | PCBM-60 | BCP | Ag,36,Spin-coating | Spin-coating | Spin-coating,Spin-coating,Dipp-coating
+04/07/2019,Solar RRL,SLG | FTO | SnO2-c | Perovskite | Spiro-MeOTAD | Au,4.45,CBD,Spin-coating,Spin-coating
+28/10/2019,ACS Applied Materials & Interfaces,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | P3HT | Au,2.7,Spray-pyrolys | Spin-coating,Spin-coating,Spin-coating
+28/10/2019,ACS Applied Materials & Interfaces,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | P3HT | Au,2.7,Spray-pyrolys | Spin-coating,Spin-coating,Spin-coating
+01/10/2019,Journal of Materials Chemistry A,SLG | FTO | ZnSO | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,8,Spray-pyrolys | Spin-coating,Doctor blading,Spin-coating
+01/10/2019,Journal of Materials Chemistry A,SLG | FTO | ZnSO | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,8,Spray-pyrolys | Spin-coating,Doctor blading,Spin-coating
+15/01/2020,Advanced Materials,SLG | FTO | NiO-c | Perovskite | ZnO-np | C60 | Ag,2.7,Spin-coating | Spin-coating,Spin-coating,Spin-coating
+10/04/2019,ACS Applied Energy Materials,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,6.12,CBD,Spin-coating,Spin-coating
+10/04/2019,ACS Applied Energy Materials,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,10.125,CBD,Spin-coating,Spin-coating
+10/04/2019,ACS Applied Energy Materials,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,6.51,CBD,Spin-coating,Spin-coating
+07/06/2019,Progress in Photovoltaics: Research and Applications,SLG | ITO | TiO2-c | Perovskite | Spiro-MeOTAD | MoO3 | ITO | MgF2,0.1,E-beam evaporation,Spin-coating,Spin-coating
+07/06/2019,Progress in Photovoltaics: Research and Applications,SLG | ITO | TiO2-c | Perovskite | Spiro-MeOTAD | MoO3 | ITO | MgF2,0.1,E-beam evaporation,Spin-coating,Spin-coating
+24/05/2017,Advanced Functional Materials,SLG | ITO | TiO2-c | PCBM-60 | Perovskite | Spiro-MeOTAD | Au,0.1,E-beam evaporation | Spin-coating,Spin-coating >> Spin-coating,Spin-coating
+19/04/2017,Journal of Materials Chemistry A,SLG | ITO | TiO2-c | Perovskite | Spiro-MeOTAD | ITO,3.76,E-beam evaporation,Spin-coating,Spin-coating
+19/04/2017,Journal of Materials Chemistry A,SLG | ITO | TiO2-c | Perovskite | Spiro-MeOTAD | Au,3.76,E-beam evaporation,Spin-coating,Spin-coating
+16/05/2019,Journal of Power Sources,SLG | FTO | PCBM-60 | BCP | Perovskite | NiO-np | Ag,6.75,Meniscus coating | Evaporation,Meniscus coating,Spin-coating
+27/02/2019,Solar Energy,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Cu:NiO-np | Carbon,7,Screen printing | Screen printing | Screen printing,Drop-infiltration,Screen printing
+27/02/2019,Solar Energy,SLG | FTO | TiO2-c | TiO2-mp | ZrO2-mp | Perovskite | Carbon,7,Screen printing | Screen printing | Screen printing,Drop-infiltration,Unknown
+15/04/2019,Energy & Environmental Science,SLG | FTO | TiO2-c | SnO2-c | Perovskite | Spiro-MeOTAD | Au,0.1,Spray-pyrolys | Spin-coating,Spin-coating | Spin-coating,Spin-coating
+20/11/2018,Journal of Materials Chemistry C,SLG | FTO | TiO2-c | TiO2-mp | Perovskite | Spiro-MeOTAD | Au,10,Spray-pyrolys | Spin-coating,Spin-coating,Spin-coating
+24/07/2019,ACS Energy Letters,SLG | FTO | TiO2-c | Perovskite | Carbon,22.4,RF sputtering,Spin-coating,Unknown
+17/08/2018,Science Advances,SLG | ITO | PTAA | PFN | Perovskite | PCBM-60 | PFN | Cu-CFNs,0.1,Spin-coating | Spin-coating,Spin-coating,Spin-coating | Spin-coating
+17/08/2018,Science Advances,SLG | ITO | PTAA | PFN | Perovskite | PCBM-60 | PFN | Cu-CFNs,0.1,Spin-coating | Spin-coating,Spin-coating,Spin-coating | Spin-coating
+17/08/2018,Science Advances,SLG | ITO | PTAA | PFN | Perovskite | PCBM-60 | PFN | Ag,0.37,Spin-coating | Spin-coating,Spin-coating,Spin-coating | Spin-coating
+17/08/2018,Science Advances,SLG | ITO | PTAA | PFN | Perovskite | PCBM-60 | PFN | Ag,0.37,Spin-coating | Spin-coating,Spin-coating,Spin-coating | Spin-coating
+17/08/2018,Science Advances,SLG | ITO | PTAA | PFN | Perovskite | PCBM-60 | PFN | Ag,0.37,Spin-coating | Spin-coating,Spin-coating,Spin-coating | Spin-coating
+18/05/2018,Solar Energy Materials and Solar Cells,SLG | FTO | SnO2-c | Perovskite | Spiro-MeOTAD | Au,12.5,Spin-coating,Spin-coating,Doctor blading
+18/05/2018,Solar Energy Materials and Solar Cells,SLG | FTO | SnO2-c | Perovskite | Spiro-MeOTAD | Au,12.5,Spin-coating,Spin-coating,Doctor blading
+29/10/2019,Solar RRL,SLG | ITO | PEDOT:PSS | Perovskite | C60 | BCP | Ag,0.1,Evaporation | Evaporation,Spin-coating,Spin-coating
+29/10/2019,Solar RRL,SLG | ITO | PEDOT:PSS | Perovskite | C60 | BCP | Ag,0.1,Evaporation | Evaporation,Spin-coating,Spin-coating
+29/10/2019,Solar RRL,SLG | ITO | PEDOT:PSS | Perovskite | C60 | BCP | Ag,0.1,Evaporation | Evaporation,Spin-coating,Spin-coating
+29/10/2019,Solar RRL,SLG | ITO | PEDOT:PSS | Perovskite | C60 | BCP | Ag,0.1,Evaporation | Evaporation,Spin-coating,Spin-coating
+29/10/2019,Solar RRL,SLG | ITO | PEDOT:PSS | Perovskite | C60 | BCP | Ag,0.1,Evaporation | Evaporation,Spin-coating,Spin-coating
+29/10/2019,Solar RRL,SLG | ITO | PEDOT:PSS | Perovskite | C60 | BCP | Ag,2.8,Evaporation | Evaporation,Spin-coating,Spin-coating
+29/10/2019,Solar RRL,SLG | FTO | TiO2-c | Perovskite | Spiro-MeOTAD | MoO3 | Ag,2.8,Unknown,Spin-coating,Spin-coating
+26/03/2019,Electrochimica Acta,SLG | FTO | SnO2-c | Perovskite | Spiro-MeOTAD | Au,20.78,CBD,Spin-coating,Spin-coating
+10/04/2018,ACS Applied Materials & Interfaces,PET | ITO | SnO2-np | Perovskite | Spiro-MeOTAD | Au,10,Spin-coating,Spin-coating,Spin-coating
+06/06/2018,Solar Energy,SLG | ITO | NiO | Perovskite | PCBM-60 | BCP | Ag,13.5,Spin-coating | Spin-coating,Spin-coating,Spin-coating
+06/06/2018,Solar Energy,SLG | ITO | NiO | Perovskite | PCBM-60 | BCP | Ag,13.5,Spin-coating | Spin-coating,Spin-coating,Spin-coating
+24/04/2020,Journal of Materials Chemistry A,SLG | FTO | ZnO-c | TiO2-mp | Perovskite | 18-crown-6 ether | Spiro-MeOTAD | Au,8,Spray-pyrolys | Spin-coating >> Dipp-coating,Spin-coating,Spin-coating | Spin-coating
+24/04/2020,Journal of Materials Chemistry A,SLG | FTO | ZnO-c | TiO2-mp | Perovskite | 18-crown-6 ether | Spiro-MeOTAD | Au,8,Spray-pyrolys | Spin-coating >> Dipp-coating,Doctor blading,Spin-coating | Spin-coating
+11/08/2020,ACS Energy Letters,SLG | ITO | PTAA | Perovskite | C60 | BCP | Cu,6.8,Evaporation | Evaporation,Slot-die coating,Doctor blading
+31/08/2021,Advanced Materials Interfaces,SLG | FTO | TiO2-c | SnO2-c | Perovskite | Spiro-MeOTAD | Au,0.09,Spray-pyrolys | Spin-coating,Slot-die coating >> Slot-die coating,Spin-coating
+31/08/2021,Advanced Materials Interfaces,SLG | FTO | TiO2-c | SnO2-c | Perovskite | Spiro-MeOTAD | Au,0.09,Spray-pyrolys | Spin-coating,Slot-die coating >> Slot-die coating,Spin-coating
+29/07/2022,Nature Communications,SLG | FTO | TiO2-SnO2 | Perovskite | Spiro-MeOTAD | Au,14,Spray-pyrolys | Spin-coating,Doctor blading,Unknown
